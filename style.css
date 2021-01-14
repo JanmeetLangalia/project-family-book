@@ -1,0 +1,19 @@
+body {
+
+    background-color:rgba(76, 134, 200, 0.897);
+  }
+  
+  #FAMILY1{
+      margin-top:20px;
+  }
+
+  #btn1{
+      margin-top:10px;
+  }
+ #name1{
+     font-size: 20px;
+     font-style: oblique;
+     font-family: cursive;
+ }
+
+
